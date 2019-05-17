@@ -1,4 +1,8 @@
-# Docker Image Ubuntu 18.04
+# Docker Image Ubuntu 18.04 
+
+[![](https://images.microbadger.com/badges/version/cromattica/ubuntu-php72.svg)](https://microbadger.com/images/cromattica/ubuntu-php72 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/cromattica/ubuntu-php72.svg)](https://microbadger.com/images/cromattica/ubuntu-php72 "Get your own image badge on microbadger.com")
+
 
 Docker image based on Ubuntu 18.04 with PHP-7.2
 
