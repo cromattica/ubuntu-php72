@@ -16,9 +16,7 @@ Enable Bitbucket Pipelines and add the file `bitbucket-pipelines.yml` to the roo
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Add your deployment scripts to the steps.
 
 ```yml
 image: cromattica/ubuntu-php72
