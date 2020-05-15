@@ -36,8 +36,19 @@ pipelines:
 
 ### Test locally
 
-If you want to test locally the image run the next command:
+If you want to test locally the image run the next commands:
 
+Clone the repository
+```
+git clone git@github.com:cromattica/ubuntu-php72.git
+```
+
+Change the directory
+```
+cd ubuntu-php72
+```
+
+Build the image
 ```
 docker build ./
 ```
